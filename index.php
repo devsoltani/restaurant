@@ -3,7 +3,7 @@
 class car
 {
 
-    public $speed;
+    public $speed=10;
 
     function calc()
     {
