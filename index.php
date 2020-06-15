@@ -4,9 +4,11 @@ class car
 {
 
     public $speed;
-
+    
     function calc()
     {
-        return 5+10;
+        $a = 5;
+        $b = 6;
+        return $a+$b;
     }
 }
